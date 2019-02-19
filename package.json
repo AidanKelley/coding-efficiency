@@ -1,0 +1,15 @@
+{
+  "name": "coding-efficiency",
+  "version": "1.0.0",
+  "description": "Measures how well you are coding",
+  "main": "index.js",
+  "dependencies": {
+    "osx-keylogger": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aidan Kelley <aidanmkelley@gmail.com>",
+  "license": "ISC"
+}
